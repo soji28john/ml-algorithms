@@ -7,7 +7,7 @@ Building the core algos using Numpy to develop deep understanding
 3. Decision Trees
 4. K- Means Clustering
 5. Neural networks
-6. continues...
+6. gradient boost 
 
 # Project Structure
 1. algorithms/: Implemention files
